@@ -1,0 +1,32 @@
+{
+  "name": "gulp-activity",
+  "version": "1.0.0",
+  "description": "an openclassroom activity",
+  "main": "blog.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenClassrooms-Student-Center/5493201-js-for-the-web-gulp.git"
+  },
+  "author": "Bradley Tim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OpenClassrooms-Student-Center/5493201-js-for-the-web-gulp/issues"
+  },
+  "homepage": "https://github.com/OpenClassrooms-Student-Center/5493201-js-for-the-web-gulp#readme",
+  "devDependencies": {
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.7.1",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-jshint": "^2.1.0",
+    "gulp-uglify": "^3.0.2",
+    "jshint": "^2.10.3",
+    "run-sequence": "^2.2.1"
+  }
+}
